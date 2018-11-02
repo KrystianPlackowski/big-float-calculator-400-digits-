@@ -33,7 +33,7 @@ Two constants:
 a) Archimedes' constant PI: 	  E^PI
 b) Natural logarithm's base E: 	sqrt(E)!
 
-
+ 
 =================================================================
 
 
