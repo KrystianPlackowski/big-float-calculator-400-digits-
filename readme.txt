@@ -8,7 +8,7 @@ Advanced arbitrary precision calculator for evaluating brackets expressions (RPN
 List of possible functions in the intepreter with examples:
 
 
-Name						      Example of use
+Name						     Example of use
 
 
 List of operators:
@@ -58,7 +58,7 @@ Some examples of possible expressions:
 Expression					    Result
 
 
-1/agm(1,sqrt(2)) 			       0.83462684167407318...
+1/agm(1,sqrt(2)) 			        0.83462684167407318...
 
 sqrt(2)!					 1.25381548064289168...
 
