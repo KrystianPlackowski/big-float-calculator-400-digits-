@@ -12,11 +12,11 @@ Name						                Example of use
 
 List of operators:
 
-a) Addition: 				            2+5
-b) Substracting: 			          2.71-3.14
-c) Multiply: 				            1234*5678
-d) Division: 				            355/113
-e) Exponentiation: 			       	 		2^100
+a) Addition: 				               								2+5
+b) Substracting: 			          										2.71-3.14
+c) Multiply: 				            											1234*5678
+d) Division: 				            											355/113
+e) Exponentiation: 			       	 									2^100
 f) Factorial/Gamma function: 	       			2.5!
 
 List of functions:
