@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean
 Two constants:
 
 a) Archimedes' constant PI: 	            E^PI
-b) Natural logarithm's base E: 	        sqrt(E)!
+b) Natural logarithm's base E: 	      sqrt(E)!
 
 
 =================================================================
