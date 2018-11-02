@@ -31,8 +31,8 @@ https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean
 
 Two constants:
 
-a) Archimedes' constant PI: 	        E^PI
-b) Natural logarithm's base E: 	      sqrt(E)!
+a) Archimedes' constant PI: 	            E^PI
+b) Natural logarithm's base E: 	          sqrt(E)!
 
 
 =================================================================
@@ -58,7 +58,7 @@ Some examples of possible expressions:
 Expression					    Result
 
 
-1/agm(1,sqrt(2)) 			          0.83462684167407318...
+1/agm(1,sqrt(2)) 			       0.83462684167407318...
 
 sqrt(2)!					 1.25381548064289168...
 
