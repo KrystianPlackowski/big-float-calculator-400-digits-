@@ -22,10 +22,10 @@ f) Factorial/Gamma function: 	        2.5!
 
 List of functions:
 
-a) Square root: 				     sqrt(2)
+a) Square root: 				 sqrt(2)
 b) Natural logarithm: 		      ln(17)
 c) Exponential function: 		    exp(-0.5) OR E^(-0.5)
-d) Arithmetic-geometric mean: 	      agm(1,2)
+d) Arithmetic-geometric mean: 	            agm(1,2)
 
 https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean
 
@@ -58,7 +58,7 @@ Some examples of possible expressions:
 Expression					Result
 
 
-1/agm(1,sqrt(2)) 			 0.83462684167407318...
+1/agm(1,sqrt(2)) 			      0.83462684167407318...
 
 sqrt(2)!					 1.25381548064289168...
 
