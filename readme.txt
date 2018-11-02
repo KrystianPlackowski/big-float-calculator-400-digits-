@@ -8,7 +8,7 @@ Advanced arbitrary precision calculator for evaluating brackets expressions (RPN
 List of possible functions in the intepreter with examples:
 
 
-Name					    Example of use
+Name					     Example of use
 
 
 List of operators:
@@ -24,8 +24,8 @@ List of functions:
 
 a) Square root: 	                    sqrt(2)
 b) Natural logarithm: 	                    ln(17)
-c) Exponential function: 	           exp(-0.5) OR E^(-0.5)
-d) Arithmetic-geometric mean: 	           agm(1,2)
+c) Exponential function: 	            exp(-0.5) OR E^(-0.5)
+d) Arithmetic-geometric mean: 	            agm(1,2)
 
 https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean
 
