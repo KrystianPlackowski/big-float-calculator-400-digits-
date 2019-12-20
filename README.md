@@ -61,7 +61,7 @@ If arithmetics precision 'DP' or number of coefficients 'g' is changed, the func
 ## Some examples of possible expressions
 
 
-Expression					    Result
+**Expression,					    Result**
 
 
 1/agm(1,sqrt(2)) 			         0.83462684167407318...
