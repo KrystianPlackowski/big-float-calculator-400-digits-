@@ -1,5 +1,5 @@
 
-# Advanced arbitrary precision calculator for evaluating brackets expressions (RPN). 
+# Advanced arbitrary precision calculator for evaluating brackets expressions. 
 
 
 List of possible functions in the intepreter with examples:
@@ -83,7 +83,7 @@ Inside the file "bigfloat.h" you can find following global constants that can be
 
 const int DP = 550;                 /* precision of all arithmetics operations */
 
-const int print_DP = 400;           // number of digits that are printed into console a result of expression */
+const int print_DP = 400;           /* number of digits that are printed into console a result of expression */
 
 #define g 320                       /* number of coefficients used in Spouge's formula for gamma function */
 
