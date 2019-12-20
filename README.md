@@ -88,3 +88,15 @@ const int print_DP = 400;           /* number of digits that are printed into co
 #define g 320                       /* number of coefficients used in Spouge's formula for gamma function */
 
 
+=================================================================
+
+
+## Errors
+Program outputs `mismatched parentheses` (weak bracketing) and `unidentified character` (any other not-defined expression) errors without terminating.
+
+
+=================================================================
+
+
+## Linux
+Library <windows.h> used to evaluate duration of computation of expressions doesn't exist in Linux OS. In order to compile, one needs to comment lines number 7, 210, 265. After that, it's possible to compile the program by typing `g++ main.cpp bigfloat.cpp bigfloat_enhanced.cpp` in terminal, what creates a file `a.out`, which can be finally run by typing `./a.out`.
