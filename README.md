@@ -77,7 +77,8 @@ sqrt(2)^sqrt(2)				         1.632526919438152844...
 =================================================================
 
 
-Changing precision. Inside the file "bigfloat.h" you can find following global constants that can be modified:
+## Changing precision.
+Inside the file "bigfloat.h" you can find following global constants that can be modified:
 
 
 const int DP = 550;                 /* precision of all arithmetics operations */
