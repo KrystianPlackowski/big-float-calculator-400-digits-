@@ -92,7 +92,7 @@ Inside the file "bigfloat.h" you can find following global constants that can be
 
 const int DP = 550;                 /* precision of all arithmetics operations */
 
-const int print_DP = 400;           /* number of digits that are printed into console a result of expression */
+const int print_DP = 400;           /* number of digits that are printed into console as a result of expression */
 
 #define g 320                       /* number of coefficients used in Spouge's formula for gamma function */
 
