@@ -2,10 +2,10 @@
 # Advanced arbitrary precision calculator for evaluating brackets expressions
 
 
-List of possible functions in the intepreter with examples:
+## List of possible functions in the intepreter with examples:
 
 
-Name,					     Example of use
+**Name,					     Example of use**
 
 
 List of operators:
@@ -58,7 +58,7 @@ If arithmetics precision 'DP' or number of coefficients 'g' is changed, the func
 =================================================================
 
 
-Some examples of possible expressions:
+## Some examples of possible expressions:
 
 
 Expression					    Result
