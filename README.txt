@@ -1,8 +1,5 @@
 
-Advanced arbitrary precision calculator for evaluating brackets expressions (RPN). 
-
-
-=================================================================
+# Advanced arbitrary precision calculator for evaluating brackets expressions (RPN). 
 
 
 List of possible functions in the intepreter with examples:
