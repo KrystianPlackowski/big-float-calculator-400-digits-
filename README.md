@@ -1,5 +1,5 @@
 
-# Advanced arbitrary precision calculator for evaluating brackets expressions. 
+# Advanced arbitrary precision calculator for evaluating brackets expressions
 
 
 List of possible functions in the intepreter with examples:
@@ -77,7 +77,7 @@ sqrt(2)^sqrt(2)				         1.632526919438152844...
 =================================================================
 
 
-## Changing precision.
+## Changing precision
 Inside the file "bigfloat.h" you can find following global constants that can be modified:
 
 
